@@ -1,56 +1,62 @@
 # 👋 Hi, I'm Swati Kumari
 
-🎓 Recent graduate in Computer Programming & Analysis from Seneca Polytechnic (Dec 2024)  
-💻 Aspiring software developer with experience in building full-stack and Android applications  
-🌱 Currently growing my skills in React, Node.js, Java, and open-source development  
-📍 Based in Toronto, Canada — open to full-time opportunities in software development (Frontend | Full Stack | Backend)
+🎓 Recent graduate in Computer Programming & Analysis from **Seneca Polytechnic (Dec 2024)**  
+💻 Full Stack Developer skilled in React, Node.js, ASP.NET MVC, and Android development  
+🚀 Built and deployed apps used by 100+ users, with a focus on performance and user experience  
+📍 Based in Toronto, Canada — actively seeking **full-time roles** in **Frontend, Backend, or Full Stack** development
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Featured Projects
 
-- **🎵 Music Invoice Management System**  
-  Full-stack web app to manage music data with C#, ASP.NET MVC, Entity Framework  
-  [View Repo](https://github.com/SwatiKumari18/Playlist_Editor) • Features AutoMapper, nested entities, and clean UI
+### 👨‍🍳 [Chefmate — AI Recipe Web App](https://github.com/SwatiKumari18/ChefMate)
+> *React, Tailwind CSS, Spoonacular API, OpenAI API*  
+AI-powered app to search, customize, and explore 10K+ recipes.  
+Built personalized recommendation engine using OpenAI's GPT.
 
-- **🏠 Hackathon Registration Android App**  
-  Built a multi-screen Android app for a Housing Hackathon registration process using Java and XML  
-  [View Repo](https://github.com/SwatiKumari18/Housing-Hackathon) • Features bottom navigation and multi-step forms
+### ❌ [Tic Tac Toe Game](https://github.com/SwatiKumari18/mytictactoe.game)
+> *JavaScript, HTML, CSS*  
+Interactive 2-player browser game with animations and sound effects.
 
-- **❌ Tic Tac Toe Web Game**  
-  Simple 2-player browser game using HTML, CSS, JavaScript with interactive sound effects  
-  [View Repo](https://github.com/SwatiKumari18/mytictactoe.game)
+### 🎵 [Music Invoice Management System](https://github.com/SwatiKumari18/Playlist_Editor)
+> *C#, ASP.NET MVC, Entity Framework*  
+Built a scalable web app to manage 50+ albums, artists, and tracks.  
+Includes filtering, pagination, AutoMapper integration, and validation logic.
 
-More projects coming soon...
-
----
-
-## 💼 What I'm Looking For
-
-I'm currently looking for:
-- Full-time software development roles (frontend, backend, or full-stack)
-- Opportunities where I can grow in a collaborative and user-focused environment
-- A team that values clean code, empathy, and learning
+### 🏠 [Housing Hackathon Android App](https://github.com/SwatiKumari18/Housing-Hackathon)
+> *Java, XML, Android Studio*  
+6-screen registration app for hackathon teams, using Fragments and Intents.  
+Tested on 5+ devices, with smooth UI and bottom navigation bar.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔍 What I'm Looking For
 
-**Languages:** Java, JavaScript, C#, Python, SQL, HTML, CSS  
-**Frameworks/Libraries:** React, ASP.NET MVC, Tailwind CSS, Node.js  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Tools:** Git, GitHub, Jira, Android Studio, Figma  
-**Practices:** Agile, REST APIs, Responsive Design, Version Control
-
----
-
-## 📫 Connect With Me
-
-- 📧 [swatikumari90151@gmail.com](mailto:swatikumari90151@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/swatikumari-b2b654229)  
-- 🌐 Portfolio (Coming Soon!)
+I’m currently open to:
+- **Full-time Software Developer roles** — Frontend, Backend, or Full Stack
+- Teams focused on clean code, real-world impact, and mentorship
+- Environments where I can grow through **real projects**, **collaboration**, and **continuous learning**
 
 ---
 
-> “It’s okay if you don’t have it all figured out yet. The courage to keep building is what counts.”  
-— Swati 💙
+## 💼 Technical Skills
+
+**Languages**: Java, JavaScript, C#, Python, SQL, HTML, CSS  
+**Frameworks/Libraries**: React, ASP.NET MVC, Tailwind CSS, Node.js  
+**Databases**: MySQL, PostgreSQL, MongoDB  
+**Tools**: Git, GitHub, Jira, Android Studio, Figma, Postman  
+**Practices**: Agile, REST APIs, MVC, Responsive Design, Testing & Debugging
+
+---
+
+## 📫 Let’s Connect
+
+📧 [swatikumari90151@gmail.com](mailto:swatikumari90151@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/swatikumari-b2b654229)  
+🧰 Portfolio: **Coming Soon**  
+📘 Currently documenting projects & insights via LinkedIn posts
+
+---
+
+> *“It’s okay if you don’t have it all figured out yet. The courage to keep building is what counts.”*  
+— *Swati 💙*
