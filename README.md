@@ -1,13 +1,25 @@
 # 👋 Hi, I'm Swati Kumari
 
-🎓 Recent graduate in Computer Programming & Analysis from **Seneca Polytechnic (Dec 2024)**  
-💻 Full Stack Developer skilled in React, Node.js, ASP.NET MVC, and Android development  
+🎓 Graduate in Computer Programming & Analysis from **Seneca Polytechnic (Dec 2024)**  
+💻 Full Stack Developer skilled in React, Node.js, Java Spring Boot, and SQL  
 🚀 Built and deployed apps used by 100+ users, with a focus on performance and user experience  
 📍 Based in Toronto, Canada — actively seeking **full-time roles** in **Frontend, Backend, or Full Stack** development
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📰 [QuickBrief — Stay Informed, Stay Ahead](https://github.com/SwatiKumari18/QuickBrief)
+> *React, Python, OpenAI API, MongoDB*  
+AI-powered personalized news summarizer web app that summarizes long articles/news into bite-sized insights, helping users save time and stay informed.
+
+### 💰 [MoneySense — When Spending Money Makes Sense](https://github.com/SwatiKumari18/MoneySense)
+> *React, Node.js, Express.js, MySQL*  
+Smart finance tracker that categorizes spending, provides visual insights, and improves budgeting decisions for users.
+
+### 🌍 [EcoCast — From Forecast to Eco-Action](https://github.com/SwatiKumari18/EcoCast)
+> *React, Java Spring Boot, OpenAI API, AWS (EC2 + S3)*  
+Cloud-hosted dashboard app that shows real-time weather and personalized energy-saving tips, promoting sustainable living.
 
 ### 👨‍🍳 [Chefmate — AI Recipe Web App](https://github.com/SwatiKumari18/ChefMate)
 > *React, Tailwind CSS, Spoonacular API, OpenAI API*  
@@ -53,10 +65,9 @@ I’m currently open to:
 
 📧 [swatikumari90151@gmail.com](mailto:swatikumari90151@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/swatikumari-b2b654229)  
-🧰 Portfolio: **Coming Soon**  
 📘 Currently documenting projects & insights via LinkedIn posts
 
 ---
 
-> *“It’s okay if you don’t have it all figured out yet. The courage to keep building is what counts.”*  
+> *“Work + Discipline + Commitment = Gauranteed Sucess in any Desired Field”*  
 — *Swati 💙*
